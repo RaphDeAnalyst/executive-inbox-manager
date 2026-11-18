@@ -1,5 +1,7 @@
 # Executive Inbox & Follow-up Manager
 
+[**View the live application →**](https://raphdeanalyst.github.io/executive-inbox-manager/)
+
 ## Project Overview
 
 Executive Inbox & Follow-up Manager is a local-first workspace for organising executive communications and making follow-through visible. It addresses a common executive-assistant workflow problem: important requests arrive alongside routine messages, and the response, owner, or due date can otherwise be overlooked.
